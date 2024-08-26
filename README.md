@@ -33,6 +33,9 @@ n=int(input())
 ```
 ## Output:
 
+![image](https://github.com/user-attachments/assets/8809fc2c-26d1-48a6-bb0e-4e25a1c32d38)
+
+
 ![Screenshot 2024-08-24 143420](https://github.com/user-attachments/assets/3ca5e88b-5cc1-433a-9b65-24260743bfe7)
 
 
